@@ -20,5 +20,6 @@ _________________________________________
 3.json
 
 #### Используемые ресурсы
-<br>1. агрегатор погоды https://openweathermap.org/ (с помощью API ) 
+<br>1. агрегатор погоды https://openweathermap.org/ (с помощью API )  
+
 2.Telegram Desktop, версия 4.8.3
